@@ -3,6 +3,9 @@
 # Package Files #
 *.jar
 
+.idea/
 *.iml
+
+.DS_Store
 
 target/
